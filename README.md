@@ -240,30 +240,4 @@ Apply to customers, products, and orders:
 
 ---
 
-## 📌 Next Possible Enhancements
-
-| Feature                     | Status   |
-| --------------------------- | -------- |
-| PUT & DELETE endpoints      | Pending  |
-| Swagger API documentation   | Optional |
-| Docker & CI/CD pipeline     | Optional |
-| Deployment on AWS / Railway | Optional |
-| Role-based access levels    | Optional |
-
----
-
-## 🙋 Contact & Support
-
-If you require improvements, deployment, diagrams, documentation or demo video support — feel free to request.
-
----
-
-### 📍 End of README
-
-```
-END OF FILE
-```
-
----
-
 
