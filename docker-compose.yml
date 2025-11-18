@@ -1,0 +1,17 @@
+version: "3.9"
+services:
+  api:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/m608db
+      - MONGO_DB_NAME=m608db
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo:latest
+    container_name: m608_mongo
+    ports:
+      - "27017:27017"

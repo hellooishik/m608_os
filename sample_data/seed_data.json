@@ -1,0 +1,10 @@
+{
+  "customers": [
+    {"name": "Acme Corp", "email": "acme@mail.com", "phone": "555-1000"},
+    {"name": "Blue Traders", "email": "blue@mail.com", "phone": "555-2000"}
+  ],
+  "products": [
+    {"name": "Widget A", "sku": "WID-A", "price": 20.5, "stock": 100},
+    {"name": "Service Pack", "sku": "SERV-1", "price": 99.99, "stock": 10}
+  ]
+}
